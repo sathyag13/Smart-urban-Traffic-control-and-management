@@ -10,7 +10,7 @@ This project aims to contribute towards smarter and safer cities with responsive
 
 ## 🧑‍💻 Owner
 
-- **[Sathya Narayanan G](https://github.com/your-username)**
+- **[Sathya Narayanan G](https://github.com/sathyag13)**
 
 ---
 ### Project Link
